@@ -1,0 +1,27 @@
+.cuadrado{
+    width: 200px;
+    height: 200px;
+}
+/*elemento pintar*/
+#elem1{
+    font-size: 50px;
+    color: blue;
+    text-align: center; 
+}
+/*4 colores*/
+#div1{
+    background-color: blue;
+}
+#div2{
+    background-color: red;
+}
+#div3{
+    background-color: green;
+}
+#div4{
+    background-color: yellow;
+}
+#div5{
+    background-color:white;
+    border: 2px black solid;
+}
